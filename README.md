@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is <benhugen>
+My name is <GITHUB-USERNAME>
 
 ### Markdown
 
